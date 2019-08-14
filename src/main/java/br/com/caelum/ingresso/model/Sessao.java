@@ -19,6 +19,9 @@ public class Sessao {
 	private Filme filme;
 	
 	/**
+	 * @param localTime 
+	 * @param rogueOne 
+	 * @param sala3d 
 	 * @deprecated hibernate only
 	 * 
 	 */	
